@@ -54,7 +54,6 @@ com.example.smartpossdk
 ├── res/                # Layouts, strings, dimens, cores, estilos
 └── SmartPosSdkApp.kt   # Classe Application com Hilt
 
-![image](https://github.com/user-attachments/assets/079e846b-605b-4259-b429-76cd216b4312)
 
 
 // Core
